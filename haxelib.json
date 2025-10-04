@@ -10,7 +10,6 @@
     "contributors": [
         "Aidan"
     ],
-    "dependencies" : {
-        "hxcpp" : "4.2.1"
+    "dependencies" : {}
     }
 }
