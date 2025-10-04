@@ -11,6 +11,6 @@
         "Aidan"
     ],
     "dependencies" : {
-        "hxcpp" : ""
+        "hxcpp" : "4.2.1"
     }
 }
