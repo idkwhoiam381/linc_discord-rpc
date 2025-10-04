@@ -10,5 +10,7 @@
     "contributors": [
         "Aidan"
     ],
-    "dependencies" : {}
- }
+    "dependencies" : {
+        "hxcpp" : "4.0.64"
+    }
+}
